@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahziyar</h1>
 <h3 align="center">frontend developer from Iran</h3>
 
-- My Portfolio [https://portfolio-mhzrerfani.vercel.app/](https://portfolio-mhzrerfani.vercel.app/)
+- My Portfolio [mhzrerfani.dev](https://mhzrerfani.dev)
 
 - How to reach me **mhzrerfani@gmail.com**
 
